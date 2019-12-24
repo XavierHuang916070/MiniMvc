@@ -1,0 +1,16 @@
+{
+    "name": "vendor/mini-framwwork",
+    "description": "php-myframework",
+    "keywords": [
+        "php",
+        "myframework"
+    ],
+    "type": "framework",
+    "require": {
+        "php":">=7.0",
+        "filp/whoops": "*",
+        "symfony/var-dumper": "*",
+        "catfan/medoo": "*",
+        "twig/twig": "*"
+    }
+}
